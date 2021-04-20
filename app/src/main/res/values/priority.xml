@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="continent">
+        <item>Europe</item>
+        <item>Asia</item>
+        <item>America</item>
+        <item>Africa</item>
+    </string-array>
+
+</resources>

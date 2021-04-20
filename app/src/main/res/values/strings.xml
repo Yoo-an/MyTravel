@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">My Travel</string>
+    <string name="no_travels" translatable="false">Currently there are no Travel items maintained</string>
+    <string name="menu_insert">Add Item</string>
+    <string name="menu_delete">Delete Travel</string>
+    <string name="travel_edit_country">Country</string>
+    <string name="travel_edit_city">City</string>
+    <string name="travel_description">Delete Travel</string>
+    <string name="travel_edit_date">Date</string>
+    <string name="travel_edit_comment">Comment</string>
+    <string name="travel_edit_save">Save</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map" translatable="false">MAP</string>
+    <string name="camera" translatable="false">CAMERA</string>
+</resources>
